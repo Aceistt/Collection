@@ -9,6 +9,7 @@ Welcome to my "Collection" repository! This repository holds my school assignmen
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- And much more in the future!
 
 ## Description
 
