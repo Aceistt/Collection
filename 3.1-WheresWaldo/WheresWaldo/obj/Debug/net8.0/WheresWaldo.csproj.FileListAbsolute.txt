@@ -1,0 +1,14 @@
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\bin\Debug\net8.0\WheresWaldo.exe
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\bin\Debug\net8.0\WheresWaldo.deps.json
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\bin\Debug\net8.0\WheresWaldo.runtimeconfig.json
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\bin\Debug\net8.0\WheresWaldo.dll
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\bin\Debug\net8.0\WheresWaldo.pdb
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.AssemblyInfoInputs.cache
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.AssemblyInfo.cs
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.csproj.CoreCompileInputs.cache
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.dll
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\refint\WheresWaldo.dll
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.pdb
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\WheresWaldo.genruntimeconfig.cache
+C:\Users\teren\Downloads\WheresWaldo\WheresWaldo\obj\Debug\net8.0\ref\WheresWaldo.dll
