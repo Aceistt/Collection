@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\bin\Debug\net8.0\shitty_rekenmachine.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\bin\Debug\net8.0\shitty_rekenmachine.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\bin\Debug\net8.0\shitty_rekenmachine.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\bin\Debug\net8.0\shitty_rekenmachine.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\bin\Debug\net8.0\shitty_rekenmachine.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\refint\shitty_rekenmachine.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\shitty_rekenmachine.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\shitty_rekenmachine\shitty_rekenmachine\obj\Debug\net8.0\ref\shitty_rekenmachine.dll

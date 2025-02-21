@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "shitty_rekenmachine/1.0.0": {
+        "runtime": {
+          "shitty_rekenmachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shitty_rekenmachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

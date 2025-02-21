@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_terminal_maatje", "cs_terminal_maatje\cs_terminal_maatje.csproj", "{D13FA727-CF7B-47A7-BDAF-189AC400ED13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13FA727-CF7B-47A7-BDAF-189AC400ED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13FA727-CF7B-47A7-BDAF-189AC400ED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13FA727-CF7B-47A7-BDAF-189AC400ED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13FA727-CF7B-47A7-BDAF-189AC400ED13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

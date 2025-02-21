@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\bin\Debug\net8.0\1.3_cyliner_inhoud.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\bin\Debug\net8.0\1.3_cyliner_inhoud.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\bin\Debug\net8.0\1.3_cyliner_inhoud.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\bin\Debug\net8.0\1.3_cyliner_inhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\bin\Debug\net8.0\1.3_cyliner_inhoud.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\refint\1.3_cyliner_inhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\1.3_cyliner_inhoud.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.3_cyliner_inhoud\1.3_cyliner_inhoud\obj\Debug\net8.0\ref\1.3_cyliner_inhoud.dll

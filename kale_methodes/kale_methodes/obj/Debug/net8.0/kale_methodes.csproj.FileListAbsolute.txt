@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\bin\Debug\net8.0\kale_methodes.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\bin\Debug\net8.0\kale_methodes.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\bin\Debug\net8.0\kale_methodes.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\bin\Debug\net8.0\kale_methodes.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\bin\Debug\net8.0\kale_methodes.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\refint\kale_methodes.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\kale_methodes.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\kale_methodes\kale_methodes\obj\Debug\net8.0\ref\kale_methodes.dll

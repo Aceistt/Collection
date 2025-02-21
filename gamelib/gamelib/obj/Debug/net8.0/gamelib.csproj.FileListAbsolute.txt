@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\bin\Debug\net8.0\gamelib.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\bin\Debug\net8.0\gamelib.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\bin\Debug\net8.0\gamelib.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\bin\Debug\net8.0\gamelib.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\bin\Debug\net8.0\gamelib.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\refint\gamelib.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\gamelib.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\gamelib\gamelib\obj\Debug\net8.0\ref\gamelib.dll

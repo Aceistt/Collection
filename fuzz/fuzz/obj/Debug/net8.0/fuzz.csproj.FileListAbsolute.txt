@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\bin\Debug\net8.0\fuzz.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\bin\Debug\net8.0\fuzz.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\bin\Debug\net8.0\fuzz.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\bin\Debug\net8.0\fuzz.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\bin\Debug\net8.0\fuzz.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\refint\fuzz.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\fuzz.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\fuzz\fuzz\obj\Debug\net8.0\ref\fuzz.dll

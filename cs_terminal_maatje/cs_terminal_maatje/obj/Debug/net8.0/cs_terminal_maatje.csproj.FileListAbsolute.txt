@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\bin\Debug\net8.0\cs_terminal_maatje.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\bin\Debug\net8.0\cs_terminal_maatje.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\bin\Debug\net8.0\cs_terminal_maatje.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\bin\Debug\net8.0\cs_terminal_maatje.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\bin\Debug\net8.0\cs_terminal_maatje.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\refint\cs_terminal_maatje.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\cs_terminal_maatje.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\cs_terminal_maatje\cs_terminal_maatje\obj\Debug\net8.0\ref\cs_terminal_maatje.dll

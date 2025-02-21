@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\bin\Debug\net8.0\ran_num.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\bin\Debug\net8.0\ran_num.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\bin\Debug\net8.0\ran_num.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\bin\Debug\net8.0\ran_num.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\bin\Debug\net8.0\ran_num.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\refint\ran_num.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ran_num.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\ran_num\ran_num\obj\Debug\net8.0\ref\ran_num.dll

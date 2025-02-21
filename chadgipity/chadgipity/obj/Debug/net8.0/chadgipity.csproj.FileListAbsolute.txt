@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\bin\Debug\net8.0\chadgipity.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\bin\Debug\net8.0\chadgipity.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\bin\Debug\net8.0\chadgipity.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\bin\Debug\net8.0\chadgipity.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\bin\Debug\net8.0\chadgipity.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\refint\chadgipity.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\chadgipity.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\chadgipity\chadgipity\obj\Debug\net8.0\ref\chadgipity.dll

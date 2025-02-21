@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\bin\Debug\net8.0\1.2_bakinhoud.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\bin\Debug\net8.0\1.2_bakinhoud.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\bin\Debug\net8.0\1.2_bakinhoud.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\bin\Debug\net8.0\1.2_bakinhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\bin\Debug\net8.0\1.2_bakinhoud.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\refint\1.2_bakinhoud.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\1.2_bakinhoud.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\1.2_bakinhoud\1.2_bakinhoud\obj\Debug\net8.0\ref\1.2_bakinhoud.dll

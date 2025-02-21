@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\bin\Debug\net8.0\pingpong.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\bin\Debug\net8.0\pingpong.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\bin\Debug\net8.0\pingpong.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\bin\Debug\net8.0\pingpong.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\bin\Debug\net8.0\pingpong.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\refint\pingpong.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\pingpong.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pingpong\pingpong\obj\Debug\net8.0\ref\pingpong.dll

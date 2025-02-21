@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\bin\Debug\net8.0\x_y_checker.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\bin\Debug\net8.0\x_y_checker.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\bin\Debug\net8.0\x_y_checker.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\bin\Debug\net8.0\x_y_checker.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\bin\Debug\net8.0\x_y_checker.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\refint\x_y_checker.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\x_y_checker.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\x_y_checker\x_y_checker\obj\Debug\net8.0\ref\x_y_checker.dll

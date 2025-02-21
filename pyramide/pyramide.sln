@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pyramide", "pyramide\pyramide.csproj", "{088E434A-CA43-4316-8268-2DC4ABFC1163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088E434A-CA43-4316-8268-2DC4ABFC1163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088E434A-CA43-4316-8268-2DC4ABFC1163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088E434A-CA43-4316-8268-2DC4ABFC1163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088E434A-CA43-4316-8268-2DC4ABFC1163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

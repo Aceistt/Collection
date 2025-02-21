@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\bin\Debug\net8.0\digiport.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\bin\Debug\net8.0\digiport.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\bin\Debug\net8.0\digiport.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\bin\Debug\net8.0\digiport.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\bin\Debug\net8.0\digiport.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\refint\digiport.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\digiport.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\digiport\digiport\obj\Debug\net8.0\ref\digiport.dll

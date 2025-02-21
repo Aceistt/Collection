@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\bin\Debug\net8.0\6.3.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\bin\Debug\net8.0\6.3.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\bin\Debug\net8.0\6.3.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\bin\Debug\net8.0\6.3.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\bin\Debug\net8.0\6.3.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\refint\6.3.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\6.3.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\6.3\6.3\obj\Debug\net8.0\ref\6.3.dll

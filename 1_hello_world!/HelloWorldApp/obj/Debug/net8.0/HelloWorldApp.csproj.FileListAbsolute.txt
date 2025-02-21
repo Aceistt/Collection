@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\1_hello_world!\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll

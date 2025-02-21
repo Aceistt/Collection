@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\bin\Debug\net8.0\pyramide.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\bin\Debug\net8.0\pyramide.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\bin\Debug\net8.0\pyramide.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\bin\Debug\net8.0\pyramide.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\bin\Debug\net8.0\pyramide.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\refint\pyramide.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\pyramide.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\pyramide\pyramide\obj\Debug\net8.0\ref\pyramide.dll

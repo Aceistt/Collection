@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "x_y_checker/1.0.0": {
+        "runtime": {
+          "x_y_checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "x_y_checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\bin\Debug\net8.0\namelist.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\bin\Debug\net8.0\namelist.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\bin\Debug\net8.0\namelist.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\bin\Debug\net8.0\namelist.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\bin\Debug\net8.0\namelist.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\refint\namelist.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\namelist.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\namelist\namelist\obj\Debug\net8.0\ref\namelist.dll
